@@ -1,0 +1,1 @@
+- where to create ageng instructions and descriptions in docs/ in knowledge or project repo
