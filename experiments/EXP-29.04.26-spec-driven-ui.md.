@@ -1,0 +1,20 @@
+# Experiment: Spec-Driven UI
+
+## Context
+
+The Food Logging UI was generated using a design contract and AI prompt.
+
+## What worked
+
+- Clear design contract helped AI generate correct layout
+- UI matched expected structure
+- Easy to connect UI with existing reducer logic
+
+## Issues
+
+- AI sometimes ignored spacing rules
+- Needed manual corrections
+
+## Result
+
+Spec-driven UI approach improves consistency and speeds up development, but still requires manual validation.
