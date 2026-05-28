@@ -1,1 +1,6 @@
 - where to create ageng instructions and descriptions in docs/ in knowledge or project repo
+- food logging should still work when Open Food Facts has no result
+- localStorage helps demo refresh but not real production storage
+- missing macros maybe should show unknown instead of 0
+- user wants to add several foods quickly, search should clear after save
+- AI and demo nutrition values are approximate, need to make this clear
